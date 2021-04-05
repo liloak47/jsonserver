@@ -13,6 +13,13 @@
       "name": "Luigi",
       "age": 35,
       "id": 2
+    },
+    {
+      "email": "liloak47@mail.com",
+      "password": "$2a$10$iWLgU0DgrE2SSa6y5MmCBOKpeTFQStzQCtb0rM9o.p0mwTju.3bp2",
+      "name": "Murillo",
+      "age": 21,
+      "id": 3
     }
   ],
   "products": [
@@ -85,6 +92,69 @@
       "price": 60,
       "category": "C",
       "id": 16
+    },
+    {
+      "name": "PS5",
+      "userId": 3,
+      "price": 500,
+      "category": "A",
+      "id": 17
+    },
+    {
+      "name": "PS4",
+      "userId": 3,
+      "price": 500,
+      "category": "A",
+      "id": 18
+    },
+    {
+      "name": "PS3",
+      "userId": 3,
+      "price": 500,
+      "category": "A",
+      "id": 19
+    },
+    {
+      "name": "PS2",
+      "userId": 3,
+      "price": 500,
+      "category": "A",
+      "id": 20
+    },
+    {
+      "name": "PS1",
+      "userId": 3,
+      "price": 500,
+      "category": "A",
+      "id": 21
+    },
+    {
+      "name": "xbox",
+      "userId": 3,
+      "price": 3232,
+      "category": "A",
+      "id": 22
+    },
+    {
+      "name": "nitendowii",
+      "userId": 3,
+      "price": 222,
+      "category": "A",
+      "id": 23
+    },
+    {
+      "name": "Nobook",
+      "userId": 3,
+      "price": 2324,
+      "category": "B",
+      "id": 24
+    },
+    {
+      "name": "Nobook",
+      "userId": 3,
+      "price": 2324,
+      "category": "B",
+      "id": 25
     }
   ]
 }

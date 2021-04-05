@@ -8,8 +8,8 @@ const port = process.env.PORT || 3001;
 app.db = router.db;
 
 const rules = auth.rewriter({
-  "/users*": "/600/users$1",
-  "/products*": "/640/products$1"
+  "/users*": "/664/users$1",
+  "/products*": "/600/products$1",
 });
 
 app.use(rules);
